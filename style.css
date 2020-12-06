@@ -7,13 +7,10 @@ h2 {
 	font-family: 'Sansita Swashed';
 	color: rgb(48, 66, 88);
 }
-
+	
 body {
-	background-image: url(image/dégradé.jpg);
-	background-repeat: no-repeat;
-	background-attachment:fixed;
-	background-position: top;
-	background-color: rgb(23,40,117);
+	background-color: rgb(220,220,220);
+}
 }
 
 .Hello {
