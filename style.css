@@ -1,0 +1,150 @@
+h1 {
+	color:rgb(31, 99, 165);
+	font-family: 'Sansita Swashed';
+}
+
+h2 {
+	font-family: 'Sansita Swashed';
+	color: rgb(48, 66, 88);
+}
+
+body {
+	background-image: url(image/dégradé.jpg);
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: top;
+	background-color: rgb(23,40,117);
+}
+
+.Hello {
+	padding: 10px;
+    box-sizing: border-box;
+    margin-left: 470px;
+    margin-right: 470px;
+    margin-bottom: 10px;
+    margin-top: 80px;
+    border-radius: 15px;
+	text-align: center;
+}
+
+
+.Présentation {
+	padding: 30px;
+	 margin-right: 300px;
+	 margin-left: 300px;
+	 background-color: rgb(240 248 255);
+	 border-radius: 15px;
+	 text-align: justify;
+	 text-align: center;
+}
+
+#imagelucas{
+	padding: 30px;
+	height: 300px;
+	border-radius: 50px
+	margin-bottom: 40px;
+    margin-right: 450px;
+	margin-left: 450px;
+	margin-top: 50px;
+	text-align: center;
+	border: solid;
+	border-radius: 30px;
+	border-color: grey; 
+}
+
+.Parcours {
+	padding: 30px;
+	margin-right: 300px;
+	margin-left: 300px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 15px;
+	background-position: auto;
+	background-color: rgb(240 248 255); 
+	text-align: justify;
+}
+
+
+.Expérience {
+	padding: 30px;
+    margin-right: 300px;
+	margin-left: 300px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 15px;
+	background-position: auto;
+	background-color: rgb(240 248 255);
+	text-align: justify;
+}
+
+.Entreprise {
+	font-style: italic;
+}
+
+.Mémoire {
+	text-align: center;
+}
+
+.Passions {
+	padding: 30px;
+	margin-right: 300px;
+	margin-left: 300px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 15px;
+	background-position: auto;
+	background-color: rgb(240 248 255);
+	text-align: justify;
+}
+
+.contacter {
+	padding: 30px;
+    margin-right: 300px;
+	margin-left: 300px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 15px;
+	background-position: auto;
+	background-color: rgb(240 248 255);
+	text-align: center;
+}
+
+
+.fab {
+	padding: 10px; 		
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+a{
+	color: rgb(23,215,176);
+	background-color: rgb(240 248 255);
+	padding: 15px;
+	border-radius: 30px;
+}
+
+a:hover{  
+	background-color: rgb(36, 76, 147);
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
